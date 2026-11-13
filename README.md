@@ -1,4 +1,4 @@
-# 🛒 Walmart Retail Sales Performance | Power BI Dashboard
+#  Walmart Retail Sales Performance | Power BI Dashboard
 
 ### Transforming Retail Data into Meaningful Business Insights
 
@@ -8,7 +8,7 @@ This project focuses on analyzing Walmart retail sales performance using Microso
 
 The dashboard provides a clear overview of key business metrics through KPI cards, interactive visualizations, and slicers, helping users explore sales performance across different years, stores, and departments.
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 - Analyze overall retail sales performance.
 - Track sales trends over time.
@@ -18,7 +18,7 @@ The dashboard provides a clear overview of key business metrics through KPI card
 - Enable interactive analysis using slicers and filters.
 - Present business insights through effective data visualization.
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - Microsoft Power BI
 - Power Query
@@ -28,7 +28,7 @@ The dashboard provides a clear overview of key business metrics through KPI card
 - Interactive Slicers & Filters
 - KPI Development
 
-## 📊 Key Performance Indicators (KPIs)
+##  Key Performance Indicators (KPIs)
 
 | KPI | Value |
 |---|---:|
@@ -39,7 +39,7 @@ The dashboard provides a clear overview of key business metrics through KPI card
 
 *Values represent the metrics displayed in the dashboard.*
 
-## 📈 Dashboard Features
+##  Dashboard Features
 
 ### 1. Sales Trend Over Time
 - Visualizes sales performance across different dates.
@@ -64,7 +64,7 @@ The dashboard includes interactive slicers for:
 - **Store:** Explore individual store performance.
 - **Department:** Analyze specific department sales.
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 Walmart-Retail-Sales-Analysis-PowerBI/
@@ -76,7 +76,7 @@ Walmart-Retail-Sales-Analysis-PowerBI/
     └── dashboard.png
 ```
 
-## 🔍 Key Analytical Areas
+##  Key Analytical Areas
 
 - Historical sales trend analysis.
 - Store-wise sales performance.
@@ -92,11 +92,11 @@ Walmart-Retail-Sales-Analysis-PowerBI/
 - Learned to design interactive reports using slicers and filters.
 - Strengthened analytical thinking and data storytelling skills.
 
-## 🚀 Project Outcome
+##  Project Outcome
 
 Developed an interactive retail sales dashboard that brings together important business metrics and visualizations in a single report, making it easier to explore sales performance across different business dimensions.
 
-## 👩‍💻 About Me
+##  About Me
 
 **Shubhangi Sarmah**
 
@@ -104,9 +104,9 @@ Aspiring Data Analyst | Data Analytics Enthusiast
 
 Interested in data analytics, business intelligence, SQL, Python, and data visualization.
 
-## 🤝 Let's Connect
+##  Let's Connect
 
-- 💼 **LinkedIn:** https://www.linkedin.com/in/subhangi-sarmah-b68530413/
-- 💻 **GitHub:** https://github.com/Subhangisarmah2003
+-  **LinkedIn:** https://www.linkedin.com/in/subhangi-sarmah-b68530413/
+-  **GitHub:** https://github.com/Subhangisarmah2003
 
 
